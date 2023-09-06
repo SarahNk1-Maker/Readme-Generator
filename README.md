@@ -32,6 +32,6 @@ All tests are ok
 
 ## Questions
 For questions or feedback, please contact me via GitHub or email:
-- GitHub: [sagahh](https://github.com/sagahh)
-- Email: ffgh@.com
+- GitHub: This is a test
+- Email: test@.com
   
