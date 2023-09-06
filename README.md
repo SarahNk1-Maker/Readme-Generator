@@ -32,6 +32,6 @@ Testing can be done on user input questions using jest
 
 ## Questions
 For questions or feedback, please contact me via GitHub or email:
-- GitHub: [SN01](https://github.com/SN01)
-- Email: sn@test.com
+- GitHub: [sagahh](https://github.com/sagahh)
+- Email: ffgh@.com
   
