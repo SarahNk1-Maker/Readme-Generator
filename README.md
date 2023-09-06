@@ -1,5 +1,5 @@
 
-# Node.js Challenge: Professional README Generator
+# Read.me
 
 ## Table of Contents
 - [Description](#description)
@@ -11,13 +11,13 @@
 - [Questions](#questions)
 
 ## Description
-When creating an open source project on GitHub, it’s important to have a high-quality README for the app. This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project. 
+Create professional read.me.
 
 ## Installation
-You can quickly and easily create a README file by using a command-line application to generate one. This allows the project creator to devote more time to working on the project.
+Clone the repository to your local machine and use it.
 
 ## Usage
-Normal
+No restrictions
 
 ## License
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://opensource.org/licenses/MIT)
@@ -25,13 +25,13 @@ Normal
 This application is covered under the MIT license.
 
 ## Contributing
-Get and copy the repo
+Still working on that.. how to make it better.
 
 ## Tests
-All tests are ok
+Testing can be done on user input questions using jest
 
 ## Questions
 For questions or feedback, please contact me via GitHub or email:
-- GitHub: [sagahh](https://github.com/sagahh)
-- Email: ffgh@.com
+- GitHub: [SN01](https://github.com/SN01)
+- Email: sn@test.com
   
